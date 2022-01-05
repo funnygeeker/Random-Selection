@@ -18,3 +18,15 @@ Fill in keywords here, one for each line, and the line containing the content of
 在这里填写关键词，每行一个，“list.txt”中包含对应关键词的内容所在的行将会降低被选择的概率，不建议超过50条
 Fill in the keywords here, one for each line. The row containing the content of the corresponding keyword in "list.txt" will reduce the probability of being selected, it is not recommended to exceed 50.
 
+## 其他特性 Other features:
+
+允许手动直接修改GUI程序中标签的内容，可以拿来开玩笑（程序存在一定问题，部分内容可能无法直接输入，但是可以通过复制粘贴的方式输入）
+Allow manual direct modification of the content of the table in the GUI program, which can be used as a joke (the program has some problems, some of the content may not be entered directly, but can be entered by copy and paste)
+
+允许修改位于“./data/img/WindowIcon.ico”的图标文件
+Allows to modify the icon file located in ". /data/img/WindowIcon.ico" icon file.
+
+### 充足的中文注释，适合Python初学者学习
+Sufficient Chinese comments, suitable for Python beginners.
+
+### 此项目可能不会再更新 This project may not be updated again

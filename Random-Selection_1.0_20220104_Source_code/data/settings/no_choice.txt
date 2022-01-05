@@ -1,0 +1,2 @@
+﻿# 在这里填写关键词，每行一个，“list.txt”中包含对应关键词的内容所在的行将不会被选择。
+# Fill in keywords here, one for each line, and the line containing the content of the corresponding keyword in "list.txt" will not be selected.

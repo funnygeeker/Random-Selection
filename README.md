@@ -3,7 +3,6 @@
 这是一个随机选择器(课堂点名器)，老师可以用它随机点名一个同学在课堂上回答问题(当然有后门让它不点你的名字)，或者用它来解决你的选择困难症
 This is a random selector (roll call device), which can be used by teachers to choose a random classmate to answer questions in class (of course, it has a back door, so you can make it not choose you), or use it to solve your choice difficulty.
 
-
 ## 文件说明 Document description
 
 ### list.txt
@@ -26,7 +25,7 @@ Allow manual direct modification of the content of the table in the GUI program,
 允许修改位于“./data/img/WindowIcon.ico”的图标文件
 Allows to modify the icon file located in ". /data/img/WindowIcon.ico" icon file.
 
-### 充足的中文注释，适合Python初学者学习
+充足的中文注释，适合Python初学者学习
 Sufficient Chinese comments, suitable for Python beginners.
 
 ### 此项目可能不会再更新 This project may not be updated again

@@ -3,6 +3,9 @@
 这是一个随机选择器(课堂点名器)，老师可以用它随机点名一个同学在课堂上回答问题(当然有后门让它不点你的名字)，或者用它来解决你的选择困难症
 This is a random selector (roll call device), which can be used by teachers to choose a random classmate to answer questions in class (of course, it has a back door, so you can make it not choose you), or use it to solve your choice difficulty.
 
+这是一个Python初学者（学了七天）的作品
+This is the work of a Python beginner (seven days of study)
+
 ## 文件说明 Document description
 
 ### list.txt
